@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\main.cpp(400,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Przyklad 03c.vcxproj -> C:\Users\pawci\Desktop\grafika openGL\zad1\Zad1\Debug\Przyklad 03c.exe
